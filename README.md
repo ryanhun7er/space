@@ -1,26 +1,29 @@
-# Space Exploration
+# Space Exploration: Planets
 This project was designed with the intent to introduce new coders to teamwork and collaboration within the coding world. They chose to create a mobile-responsive website that allows users to explore data about the planets in our solar system
 
-Live-link: https://ryanhun7er.github.io/space/ 
+## Live link: 
+https://ryanhun7er.github.io/space/
+
 ## Contributors
-Ryan Wilkinson 
-Karla Dayhoff 
-Kiara Mahan 
-Timothy Mickiewicz 
+*Ryan Wilkinson
+*Karla Dayhoff
+*Kiara Mahan 
+*Timothy Mickiewicz 
+
 ## Technologies
-HTML5
-CSS3
-JavaScript 
-jQuery 
-Materialize
-SymanticUI
-Moment.js 
-AJAX
-APIs
+*HTML5
+*CSS3
+*JavaScript 
+*jQuery 
+*Materialize
+*SymanticUI
+*Moment.js 
+*AJAX
+*APIs
 
 ## Installation
 
-To install this code, git close the files from the following respository: https://github.com/ryanhun7er/space
+To install this code, git clone the files from the following respository: https://github.com/ryanhun7er/space
 ​
 ## Usage 
 ​
@@ -31,23 +34,23 @@ In order to ensure this code can be viewed correctly, it must be viewed in a web
 The instructor and TA's of VU's coding bootcamp. Seriously though.
 
 ## Contact
-Ryan Wilkinson
-Github -- https://github.com/ryanhun7er
-LinkedIn -- https://www.linkedin.com/in/ryanhunterwilkinson/
-Email -- ryanhwilkinson@icloud.com
-=============================================================
-Karla Dayhoff:
-Github -- kddayhoff@gmail.com
-LinkedIn -- https://github.com/kddayhoff
-Email -- www.linkedin.com/in/kddayhoff
-=============================================================
-Kiara (Kiki) Mahan:
-Github -- https://github.com/KiaraM-glitch
-Email -- kiaranmahan@gmail.com
-=============================================================
-Timothy Mickiewicz:
-Github -- timothy.mickiewicz@gmail.com
-Email -- https://github.com/timothymickiewicz
+1. Ryan Wilkinson
+*Github -- https://github.com/ryanhun7er
+*LinkedIn -- https://www.linkedin.com/in/ryanhunterwilkinson/
+*Email -- [ryanhwilkinson@icloud.com](mailto:ryanhwilkinson@icloud.com)
+
+2. Karla Dayhoff:
+*Github -- https://github.com/kddayhoff
+*LinkedIn --  www.linkedin.com/in/kddayhoff
+*Email -- [kddayhoff@gmail.com](mailto:kddayhoff@gmail.com)
+
+3. Kiara (Kiki) Mahan:
+*Github -- https://github.com/KiaraM-glitch
+*Email -- [kiaranmahan@gmail.com](mailto:kiaranmahan@gmail.com)
+
+4. Timothy Mickiewicz:
+*Github -- https://github.com/timothymickiewicz 
+*Email -- [timothy.mickiewicz@gmail.com](mailto:timothy.mickiewicz@gmail.com)
 ​
 ## License
 ​
